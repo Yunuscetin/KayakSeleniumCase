@@ -41,9 +41,9 @@ Feature: Flight booking on Kayak
 
 How to Run the Tests 
 
->>>> git clone https://github.com/your-username/kayak-automation.git
->>>> cd kayak-automation
->>>> mvn test
+git clone https://github.com/your-username/kayak-automation.git
+cd kayak-automation
+mvn test
 
 
 Notes:
