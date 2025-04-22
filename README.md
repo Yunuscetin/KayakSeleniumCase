@@ -3,13 +3,13 @@
 This project is a UI automation test suite developed using Java, Selenium WebDriver and Cucumber aimed at testing the flight search and filtering functionality on https://www.kayak.com.tr It follows the Page Object Model (POM) design pattern and BDD (Behavior Driven Development) principles.
 
 ---
-Technology	Purpose
-Java	Programming language
-Selenium WebDriver	Browser automation
-Cucumber	BDD framework using Gherkin syntax
-Maven	Dependency management and build tool
-JUnit	Test runner
-WebDriverManager	Automatically manages browser drivers
+- Technology	Purpose
+- Java	Programming language
+- Selenium WebDriver	Browser automation
+- Cucumber	BDD framework using Gherkin syntax
+- Maven	Dependency management and build tool
+- JUnit	Test runner
+- WebDriverManager	Automatically manages browser drivers
 ## 🚀 Objective
 
 ---
